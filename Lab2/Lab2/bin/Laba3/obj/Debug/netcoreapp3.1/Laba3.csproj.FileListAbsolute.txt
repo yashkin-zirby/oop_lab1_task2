@@ -1,0 +1,13 @@
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\bin\Debug\netcoreapp3.1\Laba3.exe
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\bin\Debug\netcoreapp3.1\Laba3.deps.json
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\bin\Debug\netcoreapp3.1\Laba3.runtimeconfig.json
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\bin\Debug\netcoreapp3.1\Laba3.runtimeconfig.dev.json
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\bin\Debug\netcoreapp3.1\Laba3.dll
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\bin\Debug\netcoreapp3.1\Laba3.pdb
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\obj\Debug\netcoreapp3.1\Laba3.csprojAssemblyReference.cache
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\obj\Debug\netcoreapp3.1\Laba3.AssemblyInfoInputs.cache
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\obj\Debug\netcoreapp3.1\Laba3.AssemblyInfo.cs
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\obj\Debug\netcoreapp3.1\Laba3.csproj.CoreCompileInputs.cache
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\obj\Debug\netcoreapp3.1\Laba3.dll
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\obj\Debug\netcoreapp3.1\Laba3.pdb
+C:\Users\100NOUT.BY\Desktop\OOP\Laba3\Laba3\obj\Debug\netcoreapp3.1\Laba3.genruntimeconfig.cache
